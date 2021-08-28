@@ -22,7 +22,8 @@ Dependencies can be installed by:
 
 PyPI install, presuming you have all its requirements installed:
 ```
-    pip install bcpseg
+    NOT AVAILABLE...YET
+	pip install bcpseg
 ```
 
 ## Usage
