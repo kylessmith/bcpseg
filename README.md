@@ -5,6 +5,7 @@
 
 Bayesian Change Point Segmentation (BCPS).
 
+## Deprecated. See linear_segment package
 
 ## Install
 
